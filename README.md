@@ -1,5 +1,5 @@
 <p>
-  <img src="https://magicshorts.co/logo_type.png" alt="Autoshorts logo" height="36">
+  <img src="https://magicshorts.co/logo_type.png" alt="Autoshorts logo" height="48">
 </p>
 
 
