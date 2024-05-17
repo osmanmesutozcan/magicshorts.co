@@ -16,3 +16,6 @@ Customize videos according to your brand’s identity. Add background music, and
 
 ### Multiple Languages 🌎
 Pick any from dozens of supported languages. Reach out to your global audience and with tailored content.
+
+## Maker 👨‍💻
+**[Osman Mesut Ozcan](https://twitter.com/osmeoz) - Software Developer / Indiemaker**
