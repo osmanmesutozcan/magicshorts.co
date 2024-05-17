@@ -1,7 +1,6 @@
-<div style='display: flex; align-items: center; padding-bottom: 48px;'>
-  <img src="https://magicshorts.co/logo.png" alt="Autoshorts logo" width="36">
-  <span style='margin-left: 8px; font-size: 20px; font-weight: bold;'>Magicshorts</span>
-</div>
+<p>
+  <img src="https://magicshorts.co/logo_type.png" alt="Autoshorts logo" height="36">
+</p>
 
 
 **Magicshorts fully automates your faceless videos from creation, scheduling, all the way to posting. Setup once and watch your channel grow.**
